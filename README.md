@@ -1,10 +1,10 @@
 # Sales-Power-BI-Dashboard
 
-1. Dataset Overview
+1. Dataset Overview:-
 The sales dashboard data analysis project utilizes a comprehensive dataset that contains the following columns:
 Row ID,Order ID,Order Date,Ship Date etc.
 
-2. Insights
+2. Insights:-
 Through meticulous analysis, several key insights have been derived from the dataset:
 
 Total Sales: The total sales amount to $1.6 million.
@@ -17,7 +17,7 @@ Payment Mode Preferences: 43% of customers prefer Cash on Delivery (COD), 22% us
 Geographical Sales: Using slicers, the sales data is segmented into Central, South, East, and West regions. Sales can also be viewed by different states.
 Future Forecasting: A future forecast for the next 15 days has been conducted to predict sales trends.
 
-3. Recommendations
+3. Recommendations :-
 Based on the insights derived from the analysis, the following recommendations are proposed to improve business performance:
 
 Enhance Standard Delivery Services:
